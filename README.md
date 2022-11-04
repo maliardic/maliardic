@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maliardic
-- 👀 I’m interested in HTML, CSS, JS, PHP, GO
+- 👀 I’m interested in ANGULAR, HTML, CSS, JS, PHP, GO, Java
 - 🌱 I’m currently learning GO
 - 📫 How to reach me maliardic@yahoo.com
 
