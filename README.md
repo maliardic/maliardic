@@ -4,6 +4,7 @@
 - 📫 How to reach me maliardic@yahoo.com
 - I'm also a graphic designer
 - Mathematician
+- CTO at IS YAZILIM
 
 <!---
 maliardic/maliardic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
